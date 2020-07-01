@@ -1,6 +1,5 @@
 # k-Nearest Neighbor
 An implementation of the k-Nearest Neighbor algorithm in Python using the Manhattan Distance function.
-$\newline dist(\vec{v_1}, \vec{v_2}) = \sqrt{(x_2 - x_1)^2+(y_2-y_1)^2}$
 
 ### Usage
 ```python
